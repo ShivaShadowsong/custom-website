@@ -12,6 +12,7 @@ Run `grunt` for building and `grunt serve` for preview.
 Running `grunt test` will run the unit tests with karma.
 
 
+##DEVELOPER NOTE
 
 First Step : 
   Gest yourself `npm` from [here](https://www.npmjs.com/package/npm)
